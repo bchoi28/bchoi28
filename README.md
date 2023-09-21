@@ -15,12 +15,9 @@
 </br>
 <div align="center">
   <img align="center" width="200" src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" alt="hello" />
-  <h1>
+    <h1>
     I'm Brandon 👋
   </h1>
-  <h2>
-    a Fullstack Engineer based in NYC!
-  </h2>
 </div>
 
 ## About Me:
