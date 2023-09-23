@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</br>
-
-  
-  <div id="badges">
+  <img align="center" width="200" src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" alt="hello" />
+    <h1>
+    I'm Brandon 👋
+      </h1>
+    <div id="badges">
   <a href="https://www.linkedin.com/in/brandonchoi28/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -13,14 +13,7 @@
   <a href="https://wellfound.com/u/brandon-choi-6">
     <img src="https://img.shields.io/badge/Wellfound-orange?style=for-the-badge&logo=angellist&logoColor=white" alt="Wellfound Badge"/>
   </a>
-</div>
-</div>
-</br>
-<div align="center">
-  <img align="center" width="200" src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" alt="hello" />
-    <h1>
-    I'm Brandon 👋
-  </h1>
+  </div>
 </div>
 
 ## About Me:
@@ -29,17 +22,17 @@
 
 - 🌱 I’m currently learning **Python <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> and TypeScript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/>**
 
-- 👨‍💻 Check out my portfolio at [brandonchoi.dev](brandonchoi.dev)
-
-- 🤝 Reach me at :email: **bchoi28@gmail.com** or :telephone_receiver: **267-394-0904**
-
-- 📄 View my [resume](https://brandonchoi.dev/static/media/Brandon_Choi_Resume.90ef4fab707b7f8a376a.pdf)
-
 - ⚡ Fun fact: **I am a Physical Therapist :muscle: !**
 
 - 🏅 Sports teams: 🏀 Sixers & 🦅 Eagles
 
 - 🧀 Favorite Cheese: Muenster 😋
+
+- 👨‍💻 Check out my portfolio at [brandonchoi.dev](brandonchoi.dev)
+
+- 🤝 Reach me at :email: **bchoi28@gmail.com** or :telephone_receiver: **267-394-0904**
+
+- 📄 View my [resume](https://brandonchoi.dev/static/media/Brandon_Choi_Resume.90ef4fab707b7f8a376a.pdf)
 
 <h3 align="center"> 🛠️ Languages and Tools:</h3>
 </br>
@@ -85,3 +78,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
   </a> 
 </p>
+</br>
+
+<div align="center">
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+
+</div>
+
