@@ -18,21 +18,21 @@
 
 ## About Me:
 
-- 🔭 I’m currently working on implementing websockets in [NexUs](https://github.com/bchoi28/NexUs)
+🔭 I’m currently working on implementing websockets in [NexUs](https://github.com/bchoi28/NexUs)
 
-- 🌱 I’m currently learning **Python <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> and TypeScript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/>**
+🌱 I’m currently learning **Python <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> and TypeScript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/>**
 
-- ⚡ Fun fact: **I am a Physical Therapist :muscle: !**
+⚡ Fun fact: **I am a Physical Therapist :muscle: !**
 
-- 🏅 Sports teams: 🏀 Sixers & 🦅 Eagles
+🏅 Sports teams: 🏀 Sixers && 🦅 Eagles
 
-- 🧀 Favorite Cheese: Muenster 😋
+🧀 Favorite Cheese: Muenster 😋
 
-- 👨‍💻 Check out my portfolio at [brandonchoi.dev](brandonchoi.dev)
+👨‍💻 Portfolio: [brandonchoi.dev](brandonchoi.dev)
 
-- 🤝 Reach me at :email: **bchoi28@gmail.com** or :telephone_receiver: **267-394-0904**
+🤝 Reach me: :email: **bchoi28@gmail.com** || :telephone_receiver: **267-394-0904**
 
-- 📄 View my [resume](https://brandonchoi.dev/static/media/Brandon_Choi_Resume.90ef4fab707b7f8a376a.pdf)
+📄  [RESUME](https://brandonchoi.dev/static/media/Brandon_Choi_Resume.90ef4fab707b7f8a376a.pdf)  📄
 
 <h3 align="center"> 🛠️ Languages and Tools:</h3>
 </br>
