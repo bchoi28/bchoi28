@@ -32,7 +32,7 @@
 
 🤝 Reach me: :email: **bchoi28@gmail.com** || :telephone_receiver: **267-394-0904**
 
-📄  [RESUME](https://www.brandonchoi.dev/static/media/BrandonChoi_Resume.f9c6aec47a76846c0831.pdf)  📄
+📄  [RESUME](https://www.brandonchoi.dev/static/media/BrandonChoi-Resume.2b21e4bbe892afec26a6.pdf)  📄
 
 <h3 align="center"> 🛠️ Languages and Tools:</h3>
 </br>
