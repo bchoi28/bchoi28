@@ -24,8 +24,6 @@
 
 ⚡ Fun fact: **I am a Physical Therapist :muscle: !**
 
-🏅 Sports teams: 🏀 Sixers && 🦅 Eagles
-
 🧀 Favorite Cheese: Muenster 😋
 
 👨‍💻 Portfolio: [brandonchoi.dev](brandonchoi.dev)
