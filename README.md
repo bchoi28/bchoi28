@@ -18,9 +18,9 @@
 
 ## About Me:
 
-🔭 I’m currently working on implementing websockets in [NexUs](https://github.com/bchoi28/NexUs)
+🔭 Currently working on: implementing websockets in [NexUs](https://github.com/bchoi28/NexUs)
 
-🌱 I’m currently learning **Python <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> and TypeScript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/>**
+🌱 Currently learning: **Python <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> and TypeScript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/>**
 
 ⚡ Fun fact: **I am a Physical Therapist :muscle: !**
 
@@ -28,9 +28,7 @@
 
 👨‍💻 Portfolio: [brandonchoi.dev](brandonchoi.dev)
 
-🤝 Reach me: :email: **bchoi28@gmail.com** || :telephone_receiver: **267-394-0904**
-
-📄  [RESUME](https://scanqr.to/d993ee69)  📄
+🤝 Reach me: :email: **bchoi28@gmail.com**
 
 <h3 align="center"> 🛠️ Languages and Tools:</h3>
 </br>
@@ -77,8 +75,6 @@
   </a> 
 </p>
 </br>
-
-[![An image of @bchoi28's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bchoi28)](https://holopin.io/@bchoi28)
 
 
 
